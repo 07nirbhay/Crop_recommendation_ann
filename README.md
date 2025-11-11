@@ -67,10 +67,6 @@ MLPClassifier(
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── artifacts/
-    ├── model.joblib
-    ├── scaler.joblib
-    └── label_encoder_classes.json
 ```
 
 ---
